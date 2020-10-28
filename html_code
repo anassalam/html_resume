@@ -2,7 +2,15 @@
 <html>
 
 <head>
-  <title>Title/Heading of Website</title>
+  <title>HTML Resume Template</title>
+  
+  <style type="text/css" id="#jarallax-clip-0">#jarallax-container-0
+    {
+    clip: rect(0 1519.2000732421875px 706.4000244140625px 0);
+    clip: rect(0, 1519.2000732421875px, 706.4000244140625px, 0);
+    }
+  </style>
+  
 </head>
 
 <body>
