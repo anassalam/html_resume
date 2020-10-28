@@ -56,6 +56,53 @@
    <div style="background-position: 50% 50%; background-size: 100%; background-repeat: no-repeat; background-image: url(&quot;https://mobirise.com/html-templates/profile/assets/images/background2.jpg&quot;); position: fixed; top: 0px; left: 0px; width: 1519.2px; height: 1012.8px; overflow: hidden; pointer-events: none; margin-left: 0px; margin-top: -153.4px; visibility: visible; transform: translate3d(0px, 0.120007px, 0px);"></div>
   </div>
 </section>
+
+<section class="cid-qwp7uHgL4P" id="features1-34" data-rv-view="3440">    
+    <div class="container">
+        <h2 class="mbr-fonts-style mbr-section-title align-center display-2">I'M SPECIALIZED IN</h2>
+         <div class="underline align-center">
+             <div class="line"></div>
+         </div>
+
+        <h3 class="mbr-fonts-style mbr-section-subtitle align-center mbr-light pt-3 display-5">Vast experience with 5+ years</h3>
+
+        <div class="row justify-content-center pt-5">
+            <div class="col-md-6 row-item col-lg-3">
+                <div class="card-img pb-3 align-left">
+                    <span class="mbr-iconfont mbri-edit" media-simple="true"></span>
+                </div>
+                <h4 class="mbr-fonts-style mbr-card-title display-5">CONCEPT</h4>
+
+                <p class="mbr-text mbr-fonts-style display-7">Creative, passionate, 7 years professional experience in HTML Template</p>
+            </div>
+
+            <div class="col-md-6 row-item col-lg-3">
+                <div class="card-img pb-3 align-left">
+                    <span class="mbr-iconfont mbri-sites" media-simple="true"></span>
+                </div>
+                <h4 class="mbr-fonts-style mbr-card-title display-5">UI/UX</h4>
+
+                <p class="mbr-text mbr-fonts-style display-7">Worked full time using HTML Resume Template</p>
+            </div>
+
+            <div class="col-md-6 row-item col-lg-3">
+                <div class="card-img pb-3 align-left">
+                    <span class="mbr-iconfont mbri-photos" media-simple="true"></span>
+                </div>
+                <h4 class="mbr-fonts-style mbr-card-title display-5">VISUAL DESIGN</h4>
+                <p class="mbr-text mbr-fonts-style display-7">simple HTML resume developer</p>
+            </div>
+
+            <div class="col-md-6 row-item col-lg-3">
+                <div class="card-img pb-3 align-left">
+                    <span class="mbr-iconfont mbri-like" media-simple="true"></span>
+                </div>
+                <h4 class="mbr-fonts-style mbr-card-title display-5">INTERACTION</h4>
+                <p class="mbr-text mbr-fonts-style display-7">Familiar with various kinds of HTML Resume Template</p>
+            </div>
+        </div>
+    </div>
+</section>
   
 </body>
 
