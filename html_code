@@ -103,6 +103,38 @@
         </div>
     </div>
 </section>
+
+<section class="counters cid-qwp7wgFXdC" id="features3-35" data-rv-view="3443">
+    <div class="container-fluid">
+        <div class="row justify-content-center align-center">
+            <div class="col-md-3 col-sm-6 stats-item">
+                <span class="mbr-iconfont mbri-users" media-simple="true"></span>
+                <h2 class="heading mbr-card-title mbr-fonts-style display-5">Clients</h2>
+                <h3 class="count counter mbr-fonts-style mbr-bold display-2">37</h3>
+            </div>
+
+            <div class="col-md-3 col-sm-6 stats-item col-lg-3">
+                <span class="mbr-iconfont mbri-rocket" media-simple="true"></span>
+                <h2 class="heading mbr-card-title mbr-fonts-style display-5">Aworde Winner</h2>
+                <h3 class="count counter mbr-fonts-style mbr-bold display-2">13</h3>
+            </div>
+
+            <div class="col-md-3 col-sm-6 stats-item col-lg-3">
+                <span class="mbr-iconfont mbri-clock" media-simple="true"></span>
+                <h2 class="heading mbr-card-title mbr-fonts-style display-5">Hours Worked</h2>
+                <h3 class="count counter mbr-fonts-style mbr-bold display-2">900</h3>
+            </div>
+
+            <div class="col-md-3 col-sm-6 stats-item col-lg-3">
+                <span class="mbr-iconfont mbri-magic-stick" media-simple="true"></span>
+                <h2 class="heading mbr-card-title mbr-fonts-style display-5">
+                    Project Completed
+                </h2>
+                <h3 class="count counter mbr-fonts-style mbr-bold display-2">40</h3>
+            </div>
+        </div>
+    </div>
+</section>
   
 </body>
 
