@@ -251,6 +251,11 @@
                         				<span class="mbr-iconfont socicon-youtube socicon" media-simple="true"></span>
                       				</a>
                     			</li>
+					<li>
+                      				<a class="icon-transition" href="https://.com/html-templates/profile/#">
+                        				<span class="mbr-iconfont socicon-rss socicon" style="" media-simple="true"></span>
+                      				</a>
+                    			</li>
 				</ul>
 			</div>
 			
