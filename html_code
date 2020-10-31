@@ -231,7 +231,10 @@
 			
 			<div class="social-media col-md-12 col-sm-12">
 				<ul class="social-list">
-					<li><a href></a></li>
+					<li>
+						<a class="icon-transition" href="https://.com/html-templates/profile/#">
+                        				<span class="mbr-iconfont socicon-facebook socicon" media-simple="true"></span>
+                     				</a></li>
 					<li><a href></a></li>
 					<li><a href></a></li>
 				</ul>
