@@ -309,6 +309,15 @@
   <script src="./HTML Resume Template_files/jarallax.min.js.download"></script>
   <script src="./HTML Resume Template_files/script.js.download"></script>
   
+  <section class="mbr-section form1 cid-qIofBG0ijI" id="form1-l" data-sortbtn="btn-primary">
+  	<div class="container">
+		<div class="row">
+			<div class="col-md-12 col-lg-6 block-content">
+			</div>
+		</div>
+	</div>
+  </section>
+  
 </body>
 
 </html>
